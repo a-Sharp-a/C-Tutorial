@@ -1,0 +1,6 @@
+C:\Users\Izzy\Source\Repos\Tutorial\Ep1\Ep1\bin\Debug\Ep1.exe.config
+C:\Users\Izzy\Source\Repos\Tutorial\Ep1\Ep1\bin\Debug\Ep1.exe
+C:\Users\Izzy\Source\Repos\Tutorial\Ep1\Ep1\bin\Debug\Ep1.pdb
+C:\Users\Izzy\Source\Repos\Tutorial\Ep1\Ep1\obj\Debug\Ep1.csprojResolveAssemblyReference.cache
+C:\Users\Izzy\Source\Repos\Tutorial\Ep1\Ep1\obj\Debug\Ep1.exe
+C:\Users\Izzy\Source\Repos\Tutorial\Ep1\Ep1\obj\Debug\Ep1.pdb
